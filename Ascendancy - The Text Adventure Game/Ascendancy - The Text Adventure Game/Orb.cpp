@@ -6,7 +6,7 @@ Orb::Orb()
 
 void const Orb::Description()
 {
-	return nullptr;
+	return;
 }
 
 void Orb::Use()

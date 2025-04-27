@@ -2,7 +2,7 @@
 class Coins
 {
 private:
-	int coinAmount;
+	int amount;
 public:
 	Coins();
 	const void Description();

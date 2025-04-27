@@ -1,9 +1,17 @@
 #pragma once
+#include <string>
+#include "Item.h"
+
+using namespace std;
+
 class Room
 {
-private:
 public:
-	Room();
+	Item* item;
+private:
+	string description;
+public:
+	Room(string _description, Item* _item);
 	~Room();
 	const void Description();
 };

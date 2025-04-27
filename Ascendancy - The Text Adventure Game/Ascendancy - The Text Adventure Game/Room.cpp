@@ -1,6 +1,7 @@
 #include "Room.h"
 
-Room::Room()
+
+Room::Room(string _description, Item* _item)
 {
 }
 

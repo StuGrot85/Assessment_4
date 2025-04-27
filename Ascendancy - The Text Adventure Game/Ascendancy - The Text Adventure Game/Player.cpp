@@ -1,4 +1,5 @@
 #include "Player.h"
+#include <string>
 
 Player::Player()
 {
@@ -8,7 +9,7 @@ Player::~Player()
 {
 }
 
-bool Player::FindSpell(String _spell)
+bool Player::FindSpell(string _spell)
 {
 	return false;
 }

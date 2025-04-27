@@ -3,7 +3,7 @@
 
 #include <iostream>
 #include <String>
-#include "Player.h"
+#include "Game.h"
 
 
 int main()

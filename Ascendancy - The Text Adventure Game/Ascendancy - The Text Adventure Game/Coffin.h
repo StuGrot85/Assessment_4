@@ -7,7 +7,5 @@ public:
 	Coffin();
 	const void Decsription();
 	void Use();
-
-
 };
 
