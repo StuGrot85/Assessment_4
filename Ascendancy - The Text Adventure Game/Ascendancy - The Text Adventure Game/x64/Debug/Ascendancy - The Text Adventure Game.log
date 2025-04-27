@@ -1,0 +1,23 @@
+﻿  Ascendancy - The Text Adventure Game.cpp
+  Chest.cpp
+  Game.cpp
+  Item.cpp
+D:\Course Work (Programming)\Year 1\3. Introduction to CPP\Assessments\Assessment 4\Assessment_4\Ascendancy - The Text Adventure Game\Ascendancy - The Text Adventure Game\Player.h(11,17): error C2061: syntax error: identifier 'String'
+  (compiling source file 'Ascendancy%20-%20The%20Text%20Adventure%20Game.cpp')
+  
+  Orb.cpp
+D:\Course Work (Programming)\Year 1\3. Introduction to CPP\Assessments\Assessment 4\Assessment_4\Ascendancy - The Text Adventure Game\Ascendancy - The Text Adventure Game\Orb.cpp(9,2): error C2562: 'Orb::Description': 'void' function returning a value
+      D:\Course Work (Programming)\Year 1\3. Introduction to CPP\Assessments\Assessment 4\Assessment_4\Ascendancy - The Text Adventure Game\Ascendancy - The Text Adventure Game\Orb.cpp(7,17):
+      see declaration of 'Orb::Description'
+  
+  Player.cpp
+D:\Course Work (Programming)\Year 1\3. Introduction to CPP\Assessments\Assessment 4\Assessment_4\Ascendancy - The Text Adventure Game\Ascendancy - The Text Adventure Game\Player.h(11,17): error C2061: syntax error: identifier 'String'
+  (compiling source file 'Player.cpp')
+  
+D:\Course Work (Programming)\Year 1\3. Introduction to CPP\Assessments\Assessment 4\Assessment_4\Ascendancy - The Text Adventure Game\Ascendancy - The Text Adventure Game\Player.cpp(11,31): error C2761: 'bool Player::FindSpell(void)': redeclaration of member is not allowed
+D:\Course Work (Programming)\Year 1\3. Introduction to CPP\Assessments\Assessment 4\Assessment_4\Ascendancy - The Text Adventure Game\Ascendancy - The Text Adventure Game\Player.cpp(11,24): error C2065: 'String': undeclared identifier
+D:\Course Work (Programming)\Year 1\3. Introduction to CPP\Assessments\Assessment 4\Assessment_4\Ascendancy - The Text Adventure Game\Ascendancy - The Text Adventure Game\Player.cpp(11,31): error C2146: syntax error: missing ')' before identifier '_spell'
+D:\Course Work (Programming)\Year 1\3. Introduction to CPP\Assessments\Assessment 4\Assessment_4\Ascendancy - The Text Adventure Game\Ascendancy - The Text Adventure Game\Player.cpp(12,1): error C2143: syntax error: missing ';' before '{'
+D:\Course Work (Programming)\Year 1\3. Introduction to CPP\Assessments\Assessment 4\Assessment_4\Ascendancy - The Text Adventure Game\Ascendancy - The Text Adventure Game\Player.cpp(12,1): error C2447: '{': missing function header (old-style formal list?)
+  Room.cpp
+  Generating Code...

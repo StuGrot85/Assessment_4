@@ -2,6 +2,9 @@
 //
 
 #include <iostream>
+#include <String>
+#include "Player.h"
+
 
 int main()
 {
